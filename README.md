@@ -82,7 +82,7 @@ points by showing them in the map.
     
     You will have the same structure as below:
     
-    ![structure1](https://github.com/asmaa10-prog/ECO_TUNISIA/blob/21fb7a8002cd1a36480874c062f4286dc1dd60ef/structure1.PNG)
+    ![structure1](https://github.com/asmaa10-prog/Eco-TUNISIA/blob/main/structure1.png)
     
     YEYYY! Your application is now working! 🎉
     
